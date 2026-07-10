@@ -23,6 +23,6 @@
   "devDependencies": {},
   "description": "BRAC V1.2 - application mobile sportive Expo / React Native",
   "engines": {
-    "node": ">=20"
+    "node": ">=18"
   }
 }
